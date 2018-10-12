@@ -45,8 +45,3 @@ print('Your choice is..')
 choice = Speech2Text()
 if(choice!=0):
     Links(choice)
-
-
-
-
-
